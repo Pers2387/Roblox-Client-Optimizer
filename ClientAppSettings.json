@@ -1,5 +1,5 @@
 {
-  "FIntFlagUpdateVersion": 138,
+  "FIntFlagUpdateVersion": 999,
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -164,5 +164,6 @@
   "DFStringRobloxAnalyticsSubDomain": "opt-out",
   "DFStringRobloxAnalyticsURL": "https://opt-out.roblox.com",
   "DFStringAnalyticsNS1ApplicationId": "opt-out",
-  "DFStringAnalyticsNS1BeaconConfig": "https://opt-out.roblox.com"
+  "FFlagReportFpsAndGfxQualityPercentiles": flase
 }
+
